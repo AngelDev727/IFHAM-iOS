@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "23202FA8-49D6-4B5E-85A4-51E68E6989E7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EB75741-4397-4ADF-AA03-24BD0384D4F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IFHAM/MVC/Controllers/DetailPages/ListVideoOfChapterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ListVideoDelegate"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B53DC3A1-8A86-4D94-A639-9E49B9EB79B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IFHAM/MVC/Models/SubjectModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "init(dict:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C619499F-1B18-4AE1-A656-C152F71E1AA7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IFHAM/MVC/Controllers/Auth/SignupVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "callSignupAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C619499F-1B18-4AE1-A656-C152F71E1AA7 - dd03bf809f128864"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IFHAM.SignupVC.callSignupAPI() -&gt; ()"
+                  moduleName = "IFHAM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MyDATA/Mega_data/Project/2020-05/02-IFHAM/IFHAM-iOS/IFHAM/IFHAM/MVC/Controllers/Auth/SignupVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "4229">
+               </Location>
+               <Location
+                  uuid = "C619499F-1B18-4AE1-A656-C152F71E1AA7 - 8ed653c1a591dea4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Array&lt;Any&gt;&gt;) -&gt; () in IFHAM.SignupVC.callSignupAPI() -&gt; ()"
+                  moduleName = "IFHAM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MyDATA/Mega_data/Project/2020-05/02-IFHAM/IFHAM-iOS/IFHAM/IFHAM/MVC/Controllers/Auth/SignupVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "262">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BA18336-12AF-4C8D-93DA-5A9803F9D89A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IFHAM/MVC/Controllers/Auth/SignupVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "setupView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

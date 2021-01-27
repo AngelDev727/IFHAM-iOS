@@ -1,0 +1,6 @@
+framework module Pods_IFHAM {
+  umbrella header "Pods-IFHAM-umbrella.h"
+
+  export *
+  module * { export * }
+}
